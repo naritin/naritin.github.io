@@ -92,3 +92,14 @@ footer {
   background-color: #ccc;
   color: #666;
 }
+
+
+.icon {
+  text-align: center;
+}
+      
+.icon .glyphicon {
+  margin-bottom: 10px;
+  font-size: 40px;
+  color: #777;
+}
